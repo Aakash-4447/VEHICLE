@@ -16,4 +16,10 @@ Second Stage:PS2
 PSLV uses an Earth storable liquid rocket engine for its second stage,know as the vikas engine, developed by Liquod propulsion systems centre 
 Engine: Vikas 
 Fuel:UDMH+N2O4 
-Max.Thrust :799kN
+Max.Thrust :799kN 
+First stage:PS1 
+PSLV uses the S139 solid rocket motor that is arugmented by 6 solid strap-on boosters. 
+Engine:S139 
+Fuel:HTPB 
+Max.Thrust:4800 kN
+
